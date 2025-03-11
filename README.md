@@ -1,2 +1,4 @@
 # DEPI_gradution_project
-Graduation project of the Digital Egypt Pioneers scholarship in the specialization "Google Data Analyst Specialist.
+# Store sales data analysis 
+
+Analysis for a big store in united satates  that distributes various products to multiple countries both inside and outside the United States.
