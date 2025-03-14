@@ -4,7 +4,14 @@
 Analysis for a big store in united satates  that distributes various products to multiple countries both inside and outside the United States.
 
 #Team members:
-The project is created by : Fatma Elshall, Ola Gamal, Neveen Waheeb, Alla Atef, Noran  and Mohammed Gamal 
+The project is created by :
+
+Fatma Ismail Elshall 
+Nivin Naanaa Wahib
+Ola Gamal Mohamed
+Mohamed Gamal Jaber
+Alaa Atef Mostafa
+Nouran Mohamed Abdelaziz
 
 # about the project :
 
