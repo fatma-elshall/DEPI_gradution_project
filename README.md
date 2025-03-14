@@ -6,12 +6,18 @@ Analysis for a big store in united satates  that distributes various products to
 #Team members:
 The project is created by :
 
-Fatma Ismail Elshall 
-Nivin Naanaa Wahib
-Ola Gamal Mohamed
-Mohamed Gamal Jaber
-Alaa Atef Mostafa
+Fatma Ismail Elshall  , 
+
+Nivin Naanaa Wahib, 
+
+Ola Gamal Mohamed, 
+
+Mohamed Gamal Jaber, 
+
+Alaa Atef Mostafa, 
+
 Nouran Mohamed Abdelaziz
+
 
 # about the project :
 
