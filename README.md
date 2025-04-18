@@ -12,8 +12,6 @@ Nivin Naanaa Wahib,
 
 Ola Gamal Mohamed, 
 
-Mohamed Gamal Jaber, 
-
 Alaa Atef Mostafa, 
 
 Nouran Mohamed Abdelaziz
