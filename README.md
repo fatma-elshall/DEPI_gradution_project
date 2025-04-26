@@ -62,3 +62,6 @@ Designed a comprehensive Tableau dashboard to present findings in an interactive
 
 This project provided actionable insights to help businesses optimize their sales strategies, identify profitable trends, and understand customer purchasing behavior. 🚀
 
+link of Tableau dashboard: https://public.tableau.com/views/salesproject_17457012015180/salesoverview2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+ 
